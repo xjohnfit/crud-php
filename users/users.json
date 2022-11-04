@@ -1,0 +1,20 @@
+[
+    {
+        "name": "John",
+        "username": "xjohnfit",
+        "email": "xjohnfitcodes@gmail.com",
+        "phone": "781",
+        "website": "xjohnfit.com",
+        "id": 1974168,
+        "extension": "jpg"
+    },
+    {
+        "name": "Chantal",
+        "username": "lilchantal",
+        "email": "chantalb@bu.edu",
+        "phone": "8888888",
+        "website": "chantal.com",
+        "id": 1231063,
+        "extension": "jpg"
+    }
+]
